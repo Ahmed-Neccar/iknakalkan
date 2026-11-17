@@ -1,0 +1,7 @@
+label,role_title,department,allowed_contact
+Ayşe (sentetik),Muhasebe Uzmanı,Finans,ayse.test@example.com
+Mehmet (sentetik),Satın Alma Sorumlusu,Satın Alma,mehmet.test@example.com
+Zeynep (sentetik),İK Uzmanı,İnsan Kaynakları,zeynep.test@example.org
+Can (sentetik),Yazılım Geliştirici,Bilgi Teknolojileri,can.test@example.net
+Deniz (sentetik),Yönetici Asistanı,Yönetim,deniz.test@test.local
+Reddedilecek Örnek,Test,Test,kisi@olmayan-alan.invalid
